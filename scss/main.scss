@@ -14,3 +14,16 @@
 @import 'animations/flip.scss';
 @import 'animations/slide.scss';
 @import 'animations/spin.scss';
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+.toastify-text{
+    color: #fff;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: -0.32px;
+    margin: 0;
+}

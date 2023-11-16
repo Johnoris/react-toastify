@@ -107,7 +107,9 @@ export const Toast: React.FC<ToastProps> = props => {
               {iconOut}
             </div>
           )}
-          <div>{children as ReactNode}</div>
+          <div>
+            <h5 className="toastify-text">{children as ReactNode}</h5>
+          </div>
         </div>
         {Close}
         <ProgressBar
