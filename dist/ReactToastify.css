@@ -35,7 +35,7 @@
     #ff2d55
   );
   --toastify-color-progress-dark: #bb86fc;
-  --toastify-color-progress-info: var(--toastify-color-info);
+  --toastify-color-progress-info: #fff;
   --toastify-color-progress-success: #fff;
   --toastify-color-progress-warning: var(--toastify-color-warning);
   --toastify-color-progress-error: var(--toastify-color-error);

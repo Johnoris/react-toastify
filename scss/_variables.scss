@@ -46,7 +46,7 @@ $rt-mobile: 'only screen and (max-width : 480px)' !default;
   );
   // Used when no type is provided
   --toastify-color-progress-dark: #bb86fc;
-  --toastify-color-progress-info: var(--toastify-color-info);
+  --toastify-color-progress-info: #fff;
   --toastify-color-progress-success: #fff;
   --toastify-color-progress-warning: var(--toastify-color-warning);
   --toastify-color-progress-error: var(--toastify-color-error);
