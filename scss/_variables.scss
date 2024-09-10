@@ -52,7 +52,7 @@ $rt-mobile: 'only screen and (max-width : 480px)' !default;
   --toastify-color-progress-error: var(--toastify-color-error);
 }
 
-.Toastify__toast--warning{
+.Toastify__toast--info{
   background-color: #f1c40f !important;
 }
 .Toastify__toast--error{
