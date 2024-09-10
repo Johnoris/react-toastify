@@ -41,6 +41,10 @@
   --toastify-color-progress-error: var(--toastify-color-error);
 }
 
+.Toastify__toast--info {
+  background-color: #f1c40f !important;
+}
+
 .Toastify__toast--error {
   background-color: #F31C1C !important;
 }

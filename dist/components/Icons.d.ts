@@ -9,7 +9,7 @@ export interface IconProps {
 }
 export type BuiltInIconProps = React.SVGProps<SVGSVGElement> & IconProps;
 declare function Warning(props: BuiltInIconProps): React.JSX.Element;
-declare function Info(props: BuiltInIconProps): React.JSX.Element;
+declare function Info(): React.JSX.Element;
 declare function Success(): React.JSX.Element;
 declare function Error(): React.JSX.Element;
 declare function Spinner(): React.JSX.Element;
